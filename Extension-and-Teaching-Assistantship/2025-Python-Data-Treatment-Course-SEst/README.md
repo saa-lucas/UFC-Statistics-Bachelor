@@ -15,14 +15,19 @@ The workshop focused on bridging the gap between statistical theory and practica
 These records demonstrate the engagement and the practical learning environment during the session.
 
 <p align="center">
-  <img src="assets/audience_photo.jpg" width="65%" title="Full house at SEst 2025">
+  <img src="assets/5.jpeg" width="80%" alt="Audience at SEst 2025">
   <br>
-  <em>Undergraduate students participating in the hands-on session.</em>
+  <em>Full house: Undergraduate students participating in the hands-on session.</em>
 </p>
 
 <p align="center">
-  <img src="assets/teaching_photo.jpg" width="45%" title="Lucas Sá - Instructor">
-  <img src="assets/code_detail.jpg" width="45%" title="Live Coding session">
+  <img src="assets/1.png" width="45%" alt="Course Introduction">
+  <img src="assets/4.jpeg" width="45%" alt="Instructor Lucas Sá teaching">
+</p>
+
+<p align="center">
+  <img src="assets/2.jpeg" width="45%" alt="Classroom overview">
+  <img src="assets/3.jpeg" width="45%" alt="Technical discussion">
 </p>
 
 ## 📂 Folder Structure
