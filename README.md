@@ -1,8 +1,8 @@
 # UFC Statistics Bachelor 📊
-This repository centralizes my academic journey, technical projects, and outreach activities during my Statistics degree at the Federal University of Ceará (UFC).
+Repository for academic projects and outreach activities at the Federal University of Ceará.
 
-## 🚀 Featured Activity
+## 🌟 Featured Projects
 ### [Python Data Treatment Course - SEst 2025](./Extension-and-Teaching-Assistantship/2025-Python-Data-Treatment-Course-SEst/)
-Technical training developed and delivered through **Gauss Jr.** (Statistics Junior Enterprise) during the UFC Statistics Week.
-* **Focus**: Data Wrangling, Cleaning, and Exploratory Data Analysis (EDA).
-* **Documentation**: Includes full notebooks, datasets, and event records.
+**Technical Coordinator & Instructor (Gauss Jr.)**
+* 2-day intensive workshop on Data Wrangling and Exploratory Data Analysis.
+* Check the full documentation, notebooks, and [event gallery](./Extension-and-Teaching-Assistantship/2025-Python-Data-Treatment-Course-SEst/#-event-gallery).
