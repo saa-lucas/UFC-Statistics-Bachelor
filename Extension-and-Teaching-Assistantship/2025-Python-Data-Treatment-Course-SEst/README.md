@@ -11,6 +11,22 @@ The workshop focused on bridging the gap between statistical theory and practica
 * **Statistical Cleansing**: Detecting and treating outliers using Boxplots and Histograms.
 * **Tooling**: Built entirely using the Python data stack: **Pandas, NumPy, Matplotlib, and Seaborn**.
 
+## 📉 Methodology & Results
+Key visualizations demonstrating the data cleaning process performed during the workshop.
+
+### 1. Outlier Treatment (Before vs. After)
+This boxplot comparison demonstrates the effectiveness of the interquartile range (IQR) method applied to the dataset. Note the scale correction in the second chart.
+![Boxplot Comparison](assets/comparacao_boxplot.png)
+
+### 2. Distribution Analysis
+Histograms analyzing the density of "Mobile Lines per 100 inhabitants".
+<p align="center">
+  <img src="assets/com_outliers_hist.png" width="45%" alt="Distribution with Outliers">
+  <img src="assets/delimitado_hist.png" width="45%" alt="Focused Distribution">
+  <br>
+  <em>Left: Original distribution with skewness | Right: Focused analysis on the 0-200 range.</em>
+</p>
+
 ## 📸 Event Gallery
 These records demonstrate the engagement and the practical learning environment during the session.
 
