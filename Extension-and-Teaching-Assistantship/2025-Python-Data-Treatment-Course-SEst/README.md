@@ -11,7 +11,7 @@
 
 <br>
 
-This directory contains the documentation and technical materials for the "Data Treatment with Python" course delivered during the **Statistics Week (SEst) at the Federal University of Ceará (UFC)**.
+This directory contains the documentation and technical materials for the "Data Treatment with Python" course delivered during the **Statistics Week (SEST) at the Federal University of Ceará (UFC)**.
 
 ## 📝 About the Course
 The workshop focused on bridging the gap between statistical theory and practical data engineering. As the **Technical Coordinator at Gauss Jr.**, I designed this training using a **synthetic dataset inspired by the real `br_anatel_indice_brasileiro_conectividade_municipio` (Brazilian Connectivity Index)** from ANATEL.
@@ -47,7 +47,7 @@ Histograms analyzing the density of "Mobile Lines per 100 inhabitants" (`densida
 These records demonstrate the engagement and the practical learning environment during the session.
 
 <p align="center">
-  <img src="./assets/5.jpeg" width="80%" alt="Audience at SEst 2025">
+  <img src="./assets/5.jpeg" width="80%" alt="Audience at SEST 2025">
   <br>
   <em>Full house: Undergraduate students participating in the hands-on session.</em>
 </p>
