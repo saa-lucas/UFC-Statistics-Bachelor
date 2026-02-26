@@ -3,11 +3,11 @@ Repository for academic projects, research, and technical outreach activities de
 
 ## 🌟 Featured Projects
 
-### 🐍 [Python Data Treatment Course - SEst 2025](./Extension-and-Teaching-Assistantship/2025-Python-Data-Treatment-Course-SEst/)
+### 🐍 [Python Data Treatment Course - SEST 2025](https://github.com/saa-lucas/UFC-Statistics-Bachelor/tree/main/Extension-and-Teaching-Assistantship/2025-Python-Data-Treatment-Course-SEst)
 **Technical Coordinator & Instructor (Gauss Jr.)**
 * **Scope:** 2-day intensive workshop on Data Wrangling and Exploratory Data Analysis (EDA).
 * **Context:** Simulation based on the **`br_anatel_indice_brasileiro_conectividade_municipio`** dataset to solve real-world public infrastructure challenges.
-* **Content:** Includes full documentation, source code, and [event gallery](./Extension-and-Teaching-Assistantship/2025-Python-Data-Treatment-Course-SEst/#-event-gallery).
+* **Content:** Includes full documentation, source code, and [event gallery](https://github.com/saa-lucas/UFC-Statistics-Bachelor/tree/main/Extension-and-Teaching-Assistantship/2025-Python-Data-Treatment-Course-SEst#-event-gallery).
 
 ---
 
@@ -17,7 +17,12 @@ Repository for academic projects, research, and technical outreach activities de
 
 ---
 ### 🛠️ Main Technologies
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+<div style="display: inline_block">
+  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-0d1117?style=for-the-badge&logo=python&logoColor=white" />
+</div>
 
 > *Repository maintained by **Lucas Sá** - Statistics Student @ UFC*
