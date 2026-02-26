@@ -54,7 +54,7 @@ These records demonstrate the engagement and the practical learning environment 
 
 <p align="center">
   <img src="./assets/1.png" width="45%" alt="Course Introduction">
-  <img src="./assets/4.jpeg" width="45%" alt="Instructor Lucas Sá teaching">
+  <img src="./assets/4.png" width="45%" alt="Instructor Lucas Sá teaching">
 </p>
 
 <p align="center">
@@ -70,3 +70,4 @@ These records demonstrate the engagement and the practical learning environment 
 
 ---
 > **Developed by Lucas Sá** - *Statistics Student (UFC) | Technical Coordinator & Data Analyst at Gauss Jr.*
+
