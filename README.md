@@ -3,6 +3,12 @@ Repository for academic projects, research, and technical outreach activities de
 
 ## 🌟 Featured Projects
 
+### 🐍 [Python Data Treatment Course - SEST 2026](https://github.com/saa-lucas/UFC-Statistics-Bachelor/tree/main/Extension-and-Teaching-Assistantship/2026-Python-Data-Treatment-Course-SEst)
+**Technical Coordinator & Instructor (Gauss Jr.)**
+* **Scope:** 2-day intensive bootcamp focused on professional-grade data engineering, ETL logic, and advanced statistical imputation.
+* **Context:** Simulated real-world data chaos using two distinct datasets, culminating in the **GaussPay** fintech risk assessment challenge.
+* **Content:** Includes full documentation, ETL scripts, solved Jupyter notebooks, and event gallery.
+
 ### 🐍 [Python Data Treatment Course - SEST 2025](https://github.com/saa-lucas/UFC-Statistics-Bachelor/tree/main/Extension-and-Teaching-Assistantship/2025-Python-Data-Treatment-Course-SEst)
 **Technical Coordinator & Instructor (Gauss Jr.)**
 * **Scope:** 2-day intensive workshop on Data Wrangling and Exploratory Data Analysis (EDA).
