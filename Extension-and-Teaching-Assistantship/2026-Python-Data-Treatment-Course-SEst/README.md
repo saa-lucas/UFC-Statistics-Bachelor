@@ -14,7 +14,7 @@
 This directory contains the documentation and technical materials for the "Data Treatment with Python" course delivered during the **Statistics Week (SEST) at the Federal University of Ceará (UFC)** in 2026.
 
 ## 📝 About the Course
-The 2026 edition was expanded into a **two-day intensive bootcamp** with a distinct pedagogical progression, elevating students from basic data manipulation to professional-grade data engineering and ETL logic. As the **Technical Coordinator at Gauss Jr.**, I designed this training to simulate chaotic, real-world data environments using two distinct synthetic datasets:
+The 2026 edition was expanded into a **two-day intensive workshop** with a distinct pedagogical progression, elevating students from basic data manipulation to professional-grade data engineering and ETL logic. As the **Technical Coordinator at Gauss Jr.**, I designed this training to simulate chaotic, real-world data environments using two distinct synthetic datasets:
 
 * **Day 1 (Guided Instruction):** Focused on a general consulting client database (`base_clientes_bruta.csv`) to establish fundamentals in anomaly detection, typing, and outlier removal through a guided coding session.
 * **Day 2 (Hands-on Challenge):** Shifting from a "code showcase" to a practical lab. Students were given a complex fintech risk assessment dataset named **GaussPay** (`usuarios_gausspay_bruto.csv`) and challenged to independently apply the ETL structures learned on Day 1 to solve mixed date formats, Regex, and advanced statistical imputation.
