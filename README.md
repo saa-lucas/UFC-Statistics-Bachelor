@@ -3,7 +3,7 @@ Repository for academic projects, research, and technical outreach activities de
 
 ## 🌟 Featured Projects
 
-### 📊 [Digital Journalism: Mobile vs. Traffic Volume](https://github.com/saa-lucas/digital-journalism-retention-analysis)
+### 📊 [Digital Journalism: Mobile vs. Traffic Volume](https://github.com/saa-lucas/UFC-Statistics-Bachelor/tree/main/Digital-Journalism-Retention-Analysis)
 **Academic Project - Regression Models I (CC0290)**
 * **Scope:** Econometric analysis using Multiple Linear Regression and ANCOVA to evaluate reading retention in digital media.
 * **Context:** Addressed severe multicollinearity challenges (VIF > 40) to isolate the effects of access device and traffic volume using data from UOL, G1, and Estadão.
