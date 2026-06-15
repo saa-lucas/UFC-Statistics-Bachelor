@@ -1,34 +1,60 @@
-# UFC Statistics Bachelor 📊
-Repository for academic projects, research, and technical outreach activities developed during my Statistics degree at the Federal University of Ceará (UFC).
+![Project Cover](assets/Apresentacao_Pitch-01.png)
 
-## 🌟 Featured Projects
+# 📊 Digital Journalism: Mobile or Traffic Volume?
+### A Comparative Analysis between UOL, G1, and Estadão
 
-### 🐍 [Python Data Treatment Course - SEST 2026](https://github.com/saa-lucas/UFC-Statistics-Bachelor/tree/main/Extension-and-Teaching-Assistantship/2026-Python-Data-Treatment-Course-SEst)
-**Technical Coordinator & Instructor (Gauss Jr.)**
-* **Scope:** 2-day intensive workshop focused on professional-grade data engineering, ETL logic, and advanced statistical imputation.
-* **Context:** Simulated real-world data chaos using two distinct datasets, culminating in the **GaussPay** fintech risk assessment challenge.
-* **Content:** Includes full documentation, ETL scripts, solved Jupyter notebooks, and event gallery.
+Project developed for the **CC0290 - Regression Models I** course, taught by Professor **Rafael Bráz Azevedo Farias** at the Federal University of Ceará (UFC).
 
-### 🐍 [Python Data Treatment Course - SEST 2025](https://github.com/saa-lucas/UFC-Statistics-Bachelor/tree/main/Extension-and-Teaching-Assistantship/2025-Python-Data-Treatment-Course-SEst)
-**Technical Coordinator & Instructor (Gauss Jr.)**
-* **Scope:** 2-day intensive workshop on Data Wrangling and Exploratory Data Analysis (EDA).
-* **Context:** Simulation based on the **`br_anatel_indice_brasileiro_conectividade_municipio`** dataset to solve real-world public infrastructure challenges.
-* **Content:** Includes full documentation, source code, and [event gallery](https://github.com/saa-lucas/UFC-Statistics-Bachelor/tree/main/Extension-and-Teaching-Assistantship/2025-Python-Data-Treatment-Course-SEst#-event-gallery).
+## 👥 Team
+
+* **Pedro Lucas Rodrigues de Oliveira Sá** (Data Science & Diagnostics)
+* **Raquel Queiroz da Silva** (Pitch & Visual Communication)
+* **Wagner Mendes Crispim** (Methodology & Modeling)
+
+## 🎯 Objective
+
+To investigate the association between the volume of views, the access device (Mobile or Desktop), and reading retention in three major Brazilian news portals: UOL, G1, and Estadão.
+
+## 🛠️ Techniques Used
+
+* Multiple Linear Regression
+* Multicollinearity Diagnostics (Variance Inflation Factor - VIF)
+* Analysis of Covariance (ANCOVA)
+* Data Visualization and Interpretation in Python
 
 ---
 
-## 📂 Repository Structure
-* **`/Extension-and-Teaching-Assistantship/`**: Materials developed for academic monitoring and technical outreach events (Gauss Jr., SEST).
-* **`/Projects/`**: Academic papers and statistical modeling scripts.
+## 🔍 Key Insights & Methodology
+
+The core of our analysis revealed a severe statistical challenge: **Multicollinearity**. By calculating the Variance Inflation Factor (VIF), we discovered that in massive portals like UOL and G1, the Mobile traffic volume completely masked the independent effects of the variables. Estadão served as our natural control group.
+
+![VIF Analysis](assets/Apresentacao_Pitch-07.png)
+
+### Model Diagnostics: Residuals & Normality
+To validate the reliability of our ANCOVA model and its P-values, we performed residual diagnostics. The tests (Omnibus and Jarque-Bera) and visual plots confirmed that the model's errors follow a normal distribution, securing our statistical inferences.
+
+<p align="center">
+  <img src="assets/residuals_histogram.png" width="45%" alt="Residuals Histogram" />
+  <img src="assets/residuals_qqplot.png" width="45%" alt="QQ-Plot" />
+</p>
+
+## 🚀 Conclusions & Business Recommendations
+
+Our findings prove that mobile audience retention is categorically superior, guiding targeted corporate investments, advertising strategies, and seasonal content planning.
+
+![Conclusions](assets/Apresentacao_Pitch-17.png)
 
 ---
-### 🛠️ Main Technologies
-<div style="display: inline_block">
-  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-0d1117?style=for-the-badge&logo=python&logoColor=white" />
-</div>
 
-> *Repository maintained by **Lucas Sá** - Statistics Student @ UFC*
+## 📁 Repository Structure
+
+* `Relatorio_Tecnico.pdf`: Technical report specifying the intellectual contributions of the team members.
+* `Apresentacao_Pitch.pdf`: Visual presentation developed for the project pitch.
+* `Analise_Retencao_Comscore.ipynb`: Jupyter Notebook containing the complete analysis process, from data cleaning to regression models and ANCOVA.
+* `Comscores_UOL_G1_Estadao.csv`: The raw dataset used in the study.
+* `assets/`: Folder containing images and diagnostic plots used in this documentation.
+
+## 🔗 Links
+
+* **Google Colab (Interactive Notebook):** [Access Here](https://colab.research.google.com/drive/1GuxA5vyoD5EFkKfm3SN-R9mArqJ-yJVs?usp=sharing)
+* **Canva Presentation (Pitch Deck):** [Access Here](https://canva.link/jmt657h5t73t67v)
