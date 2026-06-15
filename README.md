@@ -3,6 +3,12 @@ Repository for academic projects, research, and technical outreach activities de
 
 ## 🌟 Featured Projects
 
+### 📊 [Digital Journalism: Mobile vs. Traffic Volume](https://github.com/saa-lucas/digital-journalism-retention-analysis)
+**Academic Project - Regression Models I (CC0290)**
+* **Scope:** Econometric analysis using Multiple Linear Regression and ANCOVA to evaluate reading retention in digital media.
+* **Context:** Addressed severe multicollinearity challenges (VIF > 40) to isolate the effects of access device and traffic volume using data from UOL, G1, and Estadão.
+* **Content:** Includes Jupyter Notebooks with robust residual diagnostics, technical report, and executive pitch presentation.
+
 ### 🐍 [Python Data Treatment Course - SEST 2026](https://github.com/saa-lucas/UFC-Statistics-Bachelor/tree/main/Extension-and-Teaching-Assistantship/2026-Python-Data-Treatment-Course-SEst)
 **Technical Coordinator & Instructor (Gauss Jr.)**
 * **Scope:** 2-day intensive workshop focused on professional-grade data engineering, ETL logic, and advanced statistical imputation.
@@ -23,10 +29,11 @@ Repository for academic projects, research, and technical outreach activities de
 
 ---
 ### 🛠️ Main Technologies
-<div style="display: inline_block">
+<div style="display: inline-block">
   <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Statsmodels-0d1117?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Seaborn-0d1117?style=for-the-badge&logo=python&logoColor=white" />
 </div>
