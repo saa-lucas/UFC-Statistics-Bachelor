@@ -17,6 +17,18 @@ Project developed for the **CC0290 - Regression Models I** course, taught by Pro
 
 To investigate the association between the volume of views, the access device (Mobile or Desktop), and reading retention in three major Brazilian news portals: UOL, G1, and Estadão.
 
+## 🎓 Academic Presentation
+
+This work was **accepted for presentation at the VII Colóquio de Matemática da Região Nordeste**, organized by the Sociedade Brasileira de Matemática (SBM).
+
+<p align="center">
+  <img src="assets/resumo-coloquio.jpg" width="80%" alt="Accepted abstract submitted to the VII Colóquio de Matemática da Região Nordeste" />
+</p>
+
+📄 [Download the accepted abstract](assets/resumo-coloquio.pdf)
+
+[🔗 VII Colóquio de Matemática da Região Nordeste](https://sbm.org.br/coloquio-nordeste-7/)
+
 ## 🛠️ Techniques Used
 
 * Multiple Linear Regression
